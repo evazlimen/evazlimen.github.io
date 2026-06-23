@@ -1,7 +1,7 @@
 menu:
-- {name: 'About', url: '/about'}
+- {name: 'About', url: '/index'}
 - {name: 'Research', url: '/research'}
-- {name: 'Resources', url: '/Resources'}
+- {name: 'Outreach', url: '/outreach'}
 - {name: 'CV', url: '/cv'}
 - {name: 'Contact', url: '/contact'}
 
@@ -11,4 +11,4 @@ social:
 - {icon: 'orcid', link: 'https://orcid.org/0009-0006-9842-147X', name: 'ORCID', handle: '0009-0006-9842-147X'}
 
 contacts:
-- {name: 'Eva Zlimen', title: 'Graduate Student', department: 'Earth, Planetary, and Space Sciences', institution: 'University of California, Los Angeles', institution_address: 'Los Angeles, California 90095', email: 'ezlimen@g.ucla.edu', office: 'Geology 4642', image: 'assets/img/contact.jpg'}
+- {name: 'Eva Zlimen', title: 'PhD Student', department: 'Earth, Planetary, and Space Sciences', institution: 'University of California, Los Angeles', institution_address: 'Los Angeles, California 90095', email: 'ezlimen@g.ucla.edu', office: 'Geology 4642', image: 'assets/img/contact.jpg'}
