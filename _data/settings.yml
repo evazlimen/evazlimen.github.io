@@ -2,7 +2,7 @@ menu:
 - {name: 'About', url: '/index'}
 - {name: 'Research', url: '/research'}
 - {name: 'Outreach', url: '/outreach'}
-- {name: 'CV', url: '/cv'}
+- {name: 'CV', url: '/assets/EvaZlimenCV62026.pdf'}
 - {name: 'Contact', url: '/contact'}
 
 social:

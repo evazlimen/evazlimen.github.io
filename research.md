@@ -3,4 +3,4 @@ layout: research
 title: "Research"
 ---
 
-Coming soon!
+Here is a brief overview of what I've been working on.

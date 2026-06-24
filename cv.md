@@ -2,4 +2,4 @@
 layout: cv
 title: "CV"
 ---
-Coming soon!
+You can find my CV <a href="/assets/EvaZlimenCV62026.pdf"> here</a> .
