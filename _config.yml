@@ -2,3 +2,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Eva Zlimen" # the name of your site, e.g. ACME Corp.
 description: "Planetary Science PhD Student"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-compress-html
